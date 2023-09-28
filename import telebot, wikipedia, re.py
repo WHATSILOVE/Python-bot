@@ -19,7 +19,6 @@ def getwiki(s):
 
         wikimas=wikitext.split('.')
 
-
         wikimas = wikimas[:-1]
 
 
