@@ -3,7 +3,6 @@ import telebot, wikipedia, re
 
 bot = telebot.TeleBot('6651728215:AAHV4AbK3kMT2eJz9bPz6UQnBeytClXfrTA')
 
-
 wikipedia.set_lang("ru")
 
 
